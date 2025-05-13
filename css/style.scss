@@ -3,7 +3,13 @@
 }
 
 html {
-	background-image: linear-gradient(to top left, #0000ff, #ff0000);
+	background-image: linear-gradient(to top left, #0000ff, #ee0000);
+}
+
+@media (max-width: 900px) {
+	html {
+		background-image: linear-gradient(to top, #0000ff, #ee0000);
+	}
 }
 
 html,
