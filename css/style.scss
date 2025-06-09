@@ -281,7 +281,8 @@ p {
 
 	&--ext,
 	&--gh,
-	&--yt {
+	&--yt,
+	&--tk {
 		background-image: url('../img/icon-arrow.svg');
 		background-repeat: no-repeat;
 		background-position: 14px 50%;
@@ -299,6 +300,11 @@ p {
 	&--yt {
 		background-color: #ff0000;
 		background-image: url('../img/icon-social-youtube.svg');
+	}
+
+	&--tk {
+		background-color: #000000;
+		background-image: url('../img/icon-social-tiktok.svg');
 	}
 
 	&:hover {
