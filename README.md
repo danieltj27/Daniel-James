@@ -1,3 +1,5 @@
-# DANIEL JAMES website
+# My website
 
-This is my personal website. It's just static HTML.
+The personal website of Daniel James.
+
+It's just HTML and CSS.
